@@ -1,0 +1,20 @@
+{
+  "name": "books-cli-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tsc && node ./dist/index.js"
+  },
+  "keywords": [],
+  "author": "Fady Ashraf",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.5",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "enquirer": "^2.4.1",
+    "typescript": "^5.3.3"
+  }
+}

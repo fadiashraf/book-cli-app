@@ -1,0 +1,23 @@
+# Project Name
+
+simple cli app for books
+
+## Features
+
+add , view , edit and search for books and save them in file
+
+### Prerequisites
+
+nodejs , typescript , npm
+
+### Installation
+
+choose your preferred file extension by editing config.ts file "default is txt"
+
+```bash
+npm install
+```
+
+```bash
+npm run start
+```
